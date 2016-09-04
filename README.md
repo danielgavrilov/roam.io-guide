@@ -110,9 +110,7 @@ Wiring
 
 #### Arduino
 
-There is a [shield diagram](https://docs.google.com/spreadsheets/d/1edrtmq1ul43iYVfsFOV3o18ER8bILbH1SxsYPFVHQ8U/) in the Google Drive folder showing the pins connected to the Arduino and the connectors coming out of it. Here's a screenshot for convenience:
-
-The connectors (hopefully still) have labels and are also colour-coded with insulation tape.
+There is a [shield diagram](https://docs.google.com/spreadsheets/d/1edrtmq1ul43iYVfsFOV3o18ER8bILbH1SxsYPFVHQ8U/) in the Google Drive folder showing the pins connected to the Arduino and the connectors coming out of it.
 
 #### Display ports
 
