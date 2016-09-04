@@ -125,7 +125,7 @@ The software for Enquir.io should auto-start when the Mac mini is turned on. Bel
 
 #### Nothing happens
 
-If Google Chrome does not open at all, the program probably terminated and the error message is at the end of `err.log`. Try to fix it or contact me. Then restart by running:
+If Google Chrome does not open at all, the program probably terminated and the error message is at the end of `err.log`. Try to fix it or contact me. Then restart by executing in the Terminal:
 
 ```
 npm stop; npm start
